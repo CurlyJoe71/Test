@@ -2,3 +2,7 @@ body {
     background: blue;
     background-image: url('../images/dustin.jpg');
 }
+
+.class {
+    background-image: url('/images2/djtest.jpg')
+}
