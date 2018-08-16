@@ -1,4 +1,4 @@
 body {
     background: blue;
-    background-image: url(/assets/images/dustin.jpg);
+    background-image: url('/assets/images/dustin.jpg');
 }
