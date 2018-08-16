@@ -3,6 +3,7 @@ body {
     background-image: url('../images/dustin.jpg');
 }
 
-.class {
-    background-image: url('/images2/djtest.jpg')
+.testing {
+    background-image: url('/images2/djtest.jpg');
+    height: 100px;
 }
